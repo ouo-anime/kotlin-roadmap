@@ -10,6 +10,13 @@
 
   ___
 
+<details>
+  <summary>Kotlin Roadmap Photo</summary>
+
+  ![](https://github.com/ouo-anime/kotlin-roadmap/blob/main/kotlinRoadMapIMG.png)
+</details>
+
+
 ## Table of Contents
 
   ×> 1. [Introduction to Kotlin](#introduction-to-kotlin)
