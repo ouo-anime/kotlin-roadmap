@@ -1,6 +1,6 @@
 # Kotlin Roadmap
 
-  This guide was created for personal use, and it may contain mistakes. If you notice any, please let me know.
+  This guide is for personal use only, and it may contain errors because I've only recently started learning Kotlin. If you notice any, please let me know.
 
   ___
 
