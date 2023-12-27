@@ -1,3 +1,3 @@
-# kotlin-roadmap
-Kotlin Roadmap
-I created this guide for myself, it may contain errors, if you notice them please let me know.
+# Kotlin Roadmap
+
+This guide was created for personal use, and it may contain mistakes. If you notice any, please let me know.
