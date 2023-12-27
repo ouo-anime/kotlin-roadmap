@@ -18,5 +18,5 @@
 
 ## Introduction to Kotlin
 
-  > [ ] History and purpose of Kotlin.
-  > [ ] Set up a development environment with Kotlin.
+  -> [ ] History and purpose of Kotlin.
+  -> [ ] Set up a development environment with Kotlin.
