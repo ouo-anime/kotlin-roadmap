@@ -13,7 +13,9 @@
 ## Table of Contents
 
   ×> 1. [Introduction to Kotlin](#introduction-to-kotlin)
+  <br>
   ×> 2. [Basic Syntax](#basic-syntax)
+  <br>
 
   ___
 
