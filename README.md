@@ -44,7 +44,7 @@
   <br>
   -> [ ] IF, WHEN, FOR and WHILE 
   <br>
-  -> [ ] Loops 
+  -> [ ] Loops -->
   × (For Loop)
   × (While Loop)
   <br>
