@@ -45,8 +45,9 @@
   -> [ ] IF, WHEN, FOR and WHILE 
   <br>
   -> [ ] Loops 
-  ×For 
-  ×Loop While Loop
+  ×For Loop
+  <br>
+  ×While Loop
   <br>
   -> [ ] Arrays and Collections 
   <br>
