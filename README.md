@@ -13,10 +13,44 @@
 ## Table of Contents
 
   ×> 1. [Introduction to Kotlin](#introduction-to-kotlin)
+  ×> 2. [Basic Syntax](#basic-syntax)
 
   ___
 
 ## Introduction to Kotlin
 
-  -> [ ] History and purpose of Kotlin.
-  -> [ ] Set up a development environment with Kotlin.
+  -> [ ] History and purpose of Kotlin. 
+  <br>
+  -> [ ] Set up a development environment with Kotlin. 
+  <br>
+
+  ___
+
+## Basic Syntax
+
+  -> [ ] Comments 
+  <br>
+  -> [ ] Functions 
+  <br>
+  -> [ ] Variables and Data Types 
+  <br>
+  -> [ ] The order of code execution in the program
+  <br>
+  -> [ ] Nullable Types
+  <br>
+  -> [ ] Operators 
+  <br>
+  -> [ ] IF, WHEN, FOR and WHILE 
+  <br>
+  -> [ ] Loops 
+  ×For 
+  ×Loop While Loop
+  <br>
+  -> [ ] Arrays and Collections 
+  <br>
+  -> [ ] Break and Continue
+  <br>
+  -> [ ] Classes and Objects 
+  <br>
+
+  ___
