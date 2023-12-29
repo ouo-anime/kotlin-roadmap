@@ -67,9 +67,14 @@
 # After mastering the fundamentals, here's what you can explore next:
 | Title     | Description           |
 | ----------- | -------------- |
-| Advanced Control Flow | Dive deeper into the usage of if, when, for, and while statements. Explore complex scenarios and patterns |
+| Advanced Control Flow | Dive deeper into the usage of IF, WHEN, FOR, and WHILE statements. Explore complex scenarios and patterns |
 | Advanced Functions | Learn about higher-order functions, lambdas, and how to use functions as variables |
-
+| Object-Oriented Programming (OOP) | Understand classes and objects more deeply. Learn about inheritance, interfaces, and polymorphism |
+| Extensions and Generics | Explore Kotlin's extension functions and generic types to write more flexible and reusable code |
+| Collections Operations | Master the use of higher-order functions like map, filter, and reduce for working with collections |
+| Coroutines | Delve into asynchronous programming using Kotlin's coroutines. Learn how to write asynchronous code more effectively |
+| File I/O | Understand how to read from and write to files, and handle exceptions related to file operations |
+| Android Development (Optional) | If you're interested in mobile app development, consider exploring Kotlin for Android |
 
 
 ## Continuation coming soon
