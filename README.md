@@ -64,5 +64,9 @@
 
   ___
 
+## After mastering the fundamentals, here's what you can explore next:
+# Advanced Control Flow
+Dive deeper into the usage of if, when, for, and while statements. Explore complex scenarios and patterns.
+
 ## Continuation coming soon
 The information will be updated over time
