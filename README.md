@@ -23,7 +23,7 @@
   <br>
   ×> 2. [Basic Syntax](#basic-syntax)
   <br>
-  ×> 3. [After mastering the fundamentals, here's what you can explore next](#after-mastering-the-fundamentals,-here's-what-you-can-explore-next)
+  ×> 3. [After mastering the fundamentals, here's what you can explore next](#after-mastering-the-fundamentals-here's-what-you-can-explore-next)
   <br>
 
   ___
