@@ -23,7 +23,7 @@
   <br>
   ×> 2. [Basic Syntax](#basic-syntax)
   <br>
-  ×> 3. [After mastering the fundamentals, here's what you can explore next](#after-mastering-the-fundamentals-here's-what-you-can-explore-next)
+  ×> 3. [After mastering the fundamentals, here's what you can explore next](#after-mastering-the-fundamentals)
   <br>
 
   ___
@@ -66,7 +66,8 @@
 
   ___
 
-# After Mastering the Fundamentals, Here's What You Can Explore Next
+# After Mastering the Fundamentals
+Here's What You Can Explore Next:
 | Title     | Description           |
 | ----------- | -------------- |
 | Advanced Control Flow | Dive deeper into the usage of IF, WHEN, FOR, and WHILE statements. Explore complex scenarios and patterns |
